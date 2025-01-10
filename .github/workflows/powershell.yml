@@ -64,3 +64,4 @@ jobs:
 
     - name: Run PowerShell script
       run: pwsh -file script.ps1
+      [![.github/workflows/powershell.yml](https://github.com/blacktatty-multi/PowerShell/actions/workflows/powershell.yml/badge.svg?branch=main&event=create)](https://github.com/blacktatty-multi/PowerShell/actions/workflows/powershell.yml)
